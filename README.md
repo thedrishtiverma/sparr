@@ -1,10 +1,16 @@
 # SPARR
 
-> The AI that challenges your ideas before the world does.
+#### The AI that challenges your ideas before the world does.
 
-**⏱ Estimated read time: 5 minutes**
+---
 
-## Reality is undefeated.
+![SPARR Banner](assets/banner.png)
+
+---
+
+## Personal Thinking
+
+**Reality is undefeated.**
 
 It doesn't care how confident you are.
 
@@ -141,6 +147,32 @@ They can explain what they believe and why.
 That's a skill worth building.
 
 SPARR is my attempt to build a tool that helps with exactly that.
+
+## Screenshots
+
+### Logo
+
+![SPARR Logo](assets/logo.png)
+
+### Banner
+
+![SPARR Banner](assets/banner.png)
+
+### Homepage
+
+![Homepage](assets/homepage.png)
+
+### Sparring Arena
+
+![Arena](assets/arena.png)
+
+### Chat Vault
+
+![Vault](assets/vault.png)
+
+### About Sparr
+
+![About SPARR](assets/sparr.png)
 
 ## Features
 
