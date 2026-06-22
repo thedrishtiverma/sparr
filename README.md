@@ -2,13 +2,27 @@
 
 #### The AI that challenges your ideas before the world does.
 
----
-
-![SPARR Banner](assets/banner.png)
+> A thinking gym for ideas. A place where assumptions are tested, blind spots are exposed, and reasoning gets stronger through conversation.
 
 ---
 
-## Personal Thinking
+## Quick Navigation
+
+- [Why SPARR Exists](#why-sparr-exists)
+- [What is SPARR?](#what-is-sparr)
+- [Why I'm Building This](#why-im-building-this)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Project Snapshot](#project-snapshot)
+- [Roadmap](#roadmap)
+- [Building in Public](#building-in-public)
+- [About the Builder](#about-the-builder)
+
+---
+
+## Why SPARR Exists
 
 **Reality is undefeated.**
 
@@ -148,6 +162,7 @@ That's a skill worth building.
 
 SPARR is my attempt to build a tool that helps with exactly that.
 
+
 ## Screenshots
 
 ### Logo
@@ -272,36 +287,58 @@ User
  ↓
 SPARR Interface
  ↓
-Conversation Engine
+Human Conversation Engine
  ↓
-Perspective Engine
+Perspective Selection
  ↓
-Challenge Engine
+Challenge Generation Engine
  ↓
 AI Model
+ ↓
+Reflection Layer
  ↓
 Response
 ```
 
 ---
 
-## Current Status
+## Project Snapshot
 
-#### Early Development
+Status: Early Development
 
-SPARR is actively being built.
+Stage: Pre-Beta
 
-Current focus:
+Conversations Tested: 100+
+
+Reasoning Perspectives: 6
+
+Challenge Patterns: Growing
+
+Started: 2026
+
+**Website**: Coming Soon
+
+**Public Beta**: Coming Soon
+
+### Current Challenges
+
+Building SPARR is less about making AI intelligent and more about making AI useful.
+
+Current problems being explored:
+
+- Making challenges understandable by everyone
+- Creating natural conversations
+- Avoiding generic AI responses
+- Building adaptive reasoning systems
+- Designing voice-first sparring experiences
+
+### Current focus:
 
 * Human Conversation Engine
 * Challenge Library
 * Voice Sparring
 * Language Adaptation System
 * Reasoning Quality
-
-The product changes almost every week.
-
-The vision changes much less often.
 
 ## Roadmap
 
@@ -355,11 +392,13 @@ Some assumptions in this README will probably be wrong. That's fitting.
 
 After all, SPARR exists to challenge assumptions, including my own.
 
-### About me
+### About the Builder
 
 Hi, I'm **Drishti**.
 
 I'm a 19-year-old engineering student and a builder interested in AI, product design, education, and systems thinking.
+
+I learn by building.
 
 SPARR started as a question in my notes:
 
@@ -367,4 +406,10 @@ SPARR started as a question in my notes:
 
 I'm building this project to explore that question.
 
-*If you're reading this, thanks for being part of the journey.*
+This repository documents that journey.
+
+---
+
+## Reality eventually tests every idea.
+
+## SPARR exists so we can test them first.
