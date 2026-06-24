@@ -12,6 +12,7 @@
 - [What is SPARR?](#what-is-sparr)
 - [Why I'm Building This](#why-im-building-this)
 - [Screenshots](#screenshots)
+- [Demo](#demo)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
@@ -162,7 +163,6 @@ That's a skill worth building.
 
 SPARR is my attempt to build a tool that helps with exactly that.
 
-
 ## Screenshots
 
 ### Logo
@@ -188,6 +188,10 @@ SPARR is my attempt to build a tool that helps with exactly that.
 ### About Sparr
 
 ![About SPARR](assets/sparr.png)
+
+## Demo
+
+![Demo Video](assets/demo.mp4)
 
 ## Features
 
