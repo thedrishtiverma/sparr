@@ -276,3 +276,12 @@ A future Reality Testing Engine was also proposed.
 The guiding principle for the product became:
 
 > Users should leave conversations feeling challenged, understood, and slightly smarter than when they arrived.
+
+## 23-25 June 2026 | GitHub, LinkedIn, and Deployment
+
+* Updated the README.md with the product demo.
+* Posted about this project on LinkedIn
+* Updated LinkedIn's project section with product screenshots, github link and skills invested.
+* Demo test successful.
+* Prompted and tested the Language Adaptation Engine: difference visible
+* Sparr's Deployment - Vercel and Render setup
