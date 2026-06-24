@@ -191,7 +191,7 @@ SPARR is my attempt to build a tool that helps with exactly that.
 
 ## Demo
 
-![Demo Video](assets/demo.mp4)
+![Demo Video](assets/demo.gif)
 
 ## Features
 
