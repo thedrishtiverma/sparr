@@ -1,4 +1,4 @@
-# SPARR Build Log
+# Sparr Build Log
 
 ## 5-15 June 2026 | From Debate to Sparring
 
@@ -284,4 +284,11 @@ The guiding principle for the product became:
 * Updated LinkedIn's project section with product screenshots, github link and skills invested.
 * Demo test successful.
 * Prompted and tested the Language Adaptation Engine: difference visible
-* Sparr's Deployment - Vercel and Render setup
+* Sparr's Deployment - Lovable setup (easiest)
+
+## 26-30 June 2026 | 
+
+* Security Audit: Fixed errors.
+* Sparr deployed - https://sparr-ai.lovable.app/
+
+*Latest update: 30 June 2026*
